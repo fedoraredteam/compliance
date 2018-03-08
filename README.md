@@ -10,7 +10,7 @@ Further, the infosec community as a whole could benefit from a more effective fe
 
 In this light, the [Fedora Red Team SIG](http://fedoraproject.org/wiki/SIGs/Red_Team) will be helping to document and automate compliance tasks in order to:
 
-* **Reduce** the time and risk burden to projects by automating compliance with tools like [Ansible](https://www.ansible.com/)
+* **Reduce** the time and risk burden to projects by automating compliance with tools like [Ansible](https://www.ansible.com/) and our [800-53](https://github.com/fedoraredteam/ansible-role-800-53) role
 * **Accelerate** the A&A process by providing template bodies of evidence (BoE) for open source projects
 * **Pentest** security-compliant configurations to help actively identify gaps and provide constructive feedback to regulators
 * **Build community** with infosec practitioners and encourage them to take a more active role in making security compliance more relevant and effective
