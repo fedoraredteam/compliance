@@ -1,0 +1,3 @@
+[submodule "technologies/openshift/legacy/openshift-compliance-guide"]
+	path = technologies/openshift/legacy/openshift-compliance-guide
+	url = git@github.com:RedHatGov/openshift-compliance.git
