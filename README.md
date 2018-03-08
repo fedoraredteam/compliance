@@ -13,7 +13,7 @@ In this light, the [Fedora Red Team SIG](http://fedoraproject.org/wiki/SIGs/Red_
 * **Reduce** the time and risk burden to projects by automating compliance with tools like [Ansible](https://www.ansible.com/)
 * **Accelerate** the A&A process by providing template bodies of evidence (BoE) for open source projects
 * **Pentest** security-compliant configurations to help actively identify gaps and provide constructive feedback to regulators
-* Encourage the infosec community to take a more active role in making security compliance more relevant and effective
+* **Build community** with infosec practitioners and encourage them to take a more active role in making security compliance more relevant and effective
 
 The working name for this project is **RTC** for now, short for Red Team Compliance.
 
