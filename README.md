@@ -29,7 +29,7 @@ RTC is a community project, and will be open to supporting security compliance f
 
 We're actively working this project, so please join the conversation!
 
-* Help us plan on our [project page](https://github.com/fedoraredteam/compliance/projects/1)
+* Help us plan on our [plan](https://github.com/fedoraredteam/compliance/milestone/1)
 * #fedora-security on [Freenode IRC](https://webchat.freenode.net/)
 * [security@lists.fedoraproject.org](mailto:security@lists.fedoraproject.org)
 * [jasoncallaway@fedoraproject.org](mailto:jasoncallaway@fedoraproject.org)
