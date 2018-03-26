@@ -1,6 +1,0 @@
-[submodule "technologies/openshift/legacy/openshift-compliance-guide"]
-	path = technologies/openshift/legacy/openshift-compliance-guide
-	url = git@github.com:fedoraredteam/openshift-compliance.git
-[submodule "technologies/ansible/800-53"]
-	path = technologies/ansible/800-53
-	url = git@github.com:fedoraredteam/ansible-role-800-53.git
