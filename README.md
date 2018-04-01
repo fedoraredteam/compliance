@@ -4,7 +4,7 @@
 
 Security compliance is, for some users, unavoidable. Legal regulatory requirements like [FISMA](https://en.wikipedia.org/wiki/Federal_Information_Security_Management_Act_of_2002), which mandate the use of risk management frameworks like [NIST RMF](https://en.wikipedia.org/wiki/Risk_management_framework) or DoDRMF, can add non-trivial cost and risk to any project.
 
-The impact of compliance on a system's overall security posture is positive and non-zero. However, for compliance-encumbered projects, simply complying with regulatory requirements should be considered necessary-but-insufficient from an infosec perspective.
+The impact of compliance on a system's overall security posture is positive. However, for compliance-encumbered projects, simply complying with regulatory requirements should be considered necessary-but-insufficient from an infosec perspective.
 
 Further, the infosec community as a whole could benefit from a more effective feedback loop between security compliance (passive) and offensive security practices like penetration testing (active).
 
